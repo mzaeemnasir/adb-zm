@@ -1,0 +1,3 @@
+base64 to encode the password
+requests to perform requests on REST API
+JSON to read the JSON response from REST API
